@@ -1,0 +1,25 @@
+
+table,
+td,
+th{
+    width: 600px;
+    border-collapse: collapse;
+    border: 1px solid purple;
+}
+th{
+    background-color: lightgray;
+    color:black;
+}
+td, th{
+    width: 600px;
+    height: 50px;
+    text-align: center;
+
+}
+td.affected-cell{
+    background-color: white;
+    color: black;
+}
+td.affected-cell{
+    background: lightgray;
+}
